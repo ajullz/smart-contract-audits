@@ -1,0 +1,4 @@
+.DS_Store
+public_reports/*
+private_qs_audits/*
+internals/*
